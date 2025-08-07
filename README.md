@@ -1,7 +1,7 @@
 # Mark Herbst 
 ## 3rd Year BSc Computer Science Student (University of Pretoria)
 ## About Me:
-- I’m currently working on BMW IT Hub FireFighter Capstone Project<br>-  I’m currently learning Compiler Construction, Database Systems, Computer Security and Server architecture.<br>- Fun fact : Big Manchester United Fan 🔴<br>- How to reach me : markautumn11@gmail.com
+- I’m currently working on [BMW IT Hub FireFighter Capstone Project](https://github.com/COS301-SE-2025/Fire-Fighter)<br>-  I’m currently learning Compiler Construction, Database Systems, Computer Security and Server architecture.<br>- Fun fact : Big Manchester United Fan 🔴<br>- How to reach me : markautumn11@gmail.com
 
 
 ## 🌐 Socials:
