@@ -3,6 +3,10 @@
 ## About Me:
 - I’m currently working on [BMW IT Hub FireFighter Capstone Project](https://github.com/COS301-SE-2025/Fire-Fighter)<br>-  I’m currently learning Compiler Construction, Database Systems, Computer Security and Server architecture.<br>- Fun fact : Big Manchester United Fan 🔴<br>- How to reach me : markautumn11@gmail.com
 
+## Previous Projects
+
+- I was involved in creating a [NoSQL database system DeeBee](https://github.com/COS301-SE-2025/MP11) as my Mini-project this year. 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-herbst-397b9730b) 
