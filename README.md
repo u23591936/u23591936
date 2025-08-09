@@ -5,7 +5,8 @@
 
 ## Previous Projects
 
-- I was involved in creating a [NoSQL database system DeeBee](https://github.com/COS301-SE-2025/MP11) as my Mini-project this year. 
+- I was involved in creating a NoSQL database system DeeBee as my Mini-project this year. Implemented the REST API. (Private archive) 
+- Built [a city simulation](https://github.com/COS214-Project-2024/Git-Gud) exploring design patterns using just a terminal CLI. 
 
 
 ## 🌐 Socials:
